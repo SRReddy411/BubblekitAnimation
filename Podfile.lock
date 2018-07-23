@@ -1,0 +1,16 @@
+PODS:
+  - Magnetic (2.0.4)
+
+DEPENDENCIES:
+  - Magnetic
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Magnetic
+
+SPEC CHECKSUMS:
+  Magnetic: e84f2e2572ad89c611a255406efde5b93ad32293
+
+PODFILE CHECKSUM: d0de251f1a1e023cebd0e4f3efc5d20830396b5a
+
+COCOAPODS: 1.5.3
